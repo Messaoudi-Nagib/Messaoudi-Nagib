@@ -12,3 +12,4 @@
 - I also love to mess around with AI (prompting, images generation, and technical subjects)
 - I used to do some Angular apps for my current job, and typescript based scripts for Infor M3 ERP
 - I make music too, and a lot of cool things
+- None of the cats were harmed during the picture shots (they're AI created)
